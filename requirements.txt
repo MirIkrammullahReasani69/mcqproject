@@ -1,0 +1,9 @@
+HuggingFaceHub 
+langchain
+streamlit
+python-dotenv
+pyPDE2
+transformers
+accelerate
+bitsandbytes
+torch
